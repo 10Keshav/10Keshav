@@ -5,13 +5,14 @@ I like building random things in general too of course :>
 ### Interests
 + Systems Programming, High performance computing, Operating Systems, tinkering with random hardware (f**k around and find out ig)
 + **Languages**: Rust, C/C++ 
-+ Open Source: I like using open source software and I want to be a contributor as well \:)
++ Open Source: I like using open source software and I want to contribute as well \:)
 + Linux: Huge linux enthusiast, have been using it for ~2 years.
     - Ubuntu for first 6 months.
     - Fedora for a few days.
     - Arch linux for the rest and <b>so far</b> (no I'm not gonna say it).
-+ I also participate in contests sometimes on cf,cc,lc,atcoder (C++).
-+ Swimming, football, badminton, ping pong, cricket, running, snooker, pool, want to try volleyball 
++ I also participate in contests sometimes on cf, cc, lc, atcoder (C++).
++ Swimming, football, badminton, ping pong, cricket, running, snooker, pool, squash want to try volleyball.
++ Rubik's Cube: 3x3, 2x2, Pyraminx
 
 ### Recent projects 
 [weather-cli](https://github.com/10Keshav/weather-cli): A simple tool which gives you the weather in your CLI, fully written in Rust. \
