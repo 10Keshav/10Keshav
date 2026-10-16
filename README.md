@@ -17,4 +17,4 @@ I like building random things in general too of course :>
 ### Recent projects 
 [weather-cli](https://github.com/10Keshav/weather-cli): A simple tool which gives you the weather in your CLI, fully written in Rust. \
 [brainfuck-interpreter](https://github.com/10Keshav/brainfuck-interpreter): Very basic brainfuck interpreter written in Rust (thank you MrSheerLuck). \
-[Mini-Shell](https://github.com/10Keshav/my-shell): Mini Unix shell written completely in C.
+[Mini-Shell](https://github.com/10Keshav/shell): Mini Unix shell written completely in C.
